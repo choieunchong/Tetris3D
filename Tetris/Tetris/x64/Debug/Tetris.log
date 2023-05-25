@@ -1,0 +1,7 @@
+﻿  DrawTetris.cpp
+c:\c\tetris\tetris\drawtetris.cpp(20): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\c\tetris\tetris\drawtetris.cpp(67): warning C4390: ';': 제어된 빈 문이 있습니다. 이 문이 필요합니까?
+c:\c\tetris\tetris\drawtetris.cpp(85): warning C4309: '초기화 중': 상수 값이 잘립니다.
+c:\c\tetris\tetris\drawtetris.cpp(80): warning C4715: 'DrawTetris::Frame': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\c\tetris\tetris\drawtetris.cpp(191): warning C4715: 'DrawTetris::MessageHandler': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Tetris.vcxproj -> C:\C\Tetris\x64\Debug\Tetris.exe
