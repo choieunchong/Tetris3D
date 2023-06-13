@@ -1,0 +1,4 @@
+﻿  LightClass.cpp
+main.obj : warning LNK4229: 잘못된 지시문 '/entry.winMainCRTStartup'이(가) 발견되었습니다. 무시됩니다.
+main.obj : warning LNK4229: 잘못된 지시문 '/subsystem.console'이(가) 발견되었습니다. 무시됩니다.
+  Direct11_2.vcxproj -> C:\C\Direct11_2\x64\Debug\Direct11_2.exe
